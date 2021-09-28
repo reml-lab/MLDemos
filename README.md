@@ -6,3 +6,5 @@ Interactive ML Demos
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/reml-lab/MLDemos/blob/master/Linear_Classifier.ipynb) Interactive Linear Classifier Demo
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/reml-lab/MLDemos/blob/master/Gradient_Explorer.ipynb) Interactive Gradient Explorer Demo 
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/reml-lab/MLDemos/blob/master/Numerical_Optimization.ipynb) Numerical Optimization Demos. 
+* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/reml-lab/MLDemos/blob/svc/SVR.ipynb) Support Vector Regressor Demos. 
+* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/reml-lab/MLDemos/blob/svc/SVC.ipynb) Support Vector Classifier Demos. 
