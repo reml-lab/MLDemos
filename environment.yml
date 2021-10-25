@@ -1,0 +1,11 @@
+name: 689_demo_nn
+channels:
+  - defaults
+dependencies:
+  - python=3.9
+  - jupyter
+  - numpy
+  - matplotlib
+  - ipywidgets
+  - pytorch
+prefix: /Users/amitgh/opt/anaconda3/envs/689_demo_nn
