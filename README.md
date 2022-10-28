@@ -17,4 +17,4 @@ Interactive ML Demos
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/reml-lab/MLDemos/blob/master/VAE.ipynb) Variational Autoencoders 
 
 Tutorials
-* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/reml-lab/MLDemos/blob/master/PyTorch Crash Course.ipynb) PyTorch Crash Course
+* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/reml-lab/MLDemos/blob/master/PyTorch%20Crash%20Course.ipynb) PyTorch Crash Course
