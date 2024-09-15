@@ -1,6 +1,6 @@
 # MLDemos
 Interactive ML Demos
-
+* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/reml-lab/MLDemos/blob/master/Data_Generating_Distributions.ipynb) Data Generating Distributions Demo
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/reml-lab/MLDemos/blob/master/Linear_Regression.ipynb) Interactive OLS Linear Regression Demo
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/reml-lab/MLDemos/blob/master/Linear_Regression_Polynomial_Basis.ipynb) Interactive OLS Linear Regression Demo with Polynomial Basis Expansion
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/reml-lab/MLDemos/blob/master/Bayesian_Linear_Regression.ipynb) Bayesian Linear Regression Demo with Metropolis-Hastings Sampler
@@ -18,4 +18,5 @@ Interactive ML Demos
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/reml-lab/MLDemos/blob/master/VAE.ipynb) Variational Autoencoders 
 
 Tutorials
+* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/reml-lab/MLDemos/blob/master/Numpy%20Crash%20Course.ipynb) NumPy Crash Course
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/reml-lab/MLDemos/blob/master/PyTorch%20Crash%20Course.ipynb) PyTorch Crash Course
