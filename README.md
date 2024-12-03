@@ -19,7 +19,7 @@ Unsupervised Learning Demos:
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/reml-lab/MLDemos/blob/master/Bivariate%20Gaussian%20Demo.ipynb) Bivariate Gaussian Demo 
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/reml-lab/MLDemos/blob/master/Mixture%20Models.ipynb) Mixture Models Demo 
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/reml-lab/MLDemos/blob/master/Factor_Analysis.ipynb) Factor Analysis 
-* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/reml-lab/MLDemos/blob/master/Linear_Autoencoders.ipynb) Linear Autoencoders 
+* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/reml-lab/MLDemos/blob/master/Denoising_Autoencoders.ipynb) Denoising Autoencoders 
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/reml-lab/MLDemos/blob/master/VAE.ipynb) Variational Autoencoders 
 
 Optimization Demos:
