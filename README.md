@@ -21,6 +21,7 @@ Unsupervised Learning Demos:
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/reml-lab/MLDemos/blob/master/Factor_Analysis.ipynb) Factor Analysis 
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/reml-lab/MLDemos/blob/master/Denoising_Autoencoders.ipynb) Denoising Autoencoders 
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/reml-lab/MLDemos/blob/master/VAE.ipynb) Variational Autoencoders 
+* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/reml-lab/MLDemos/blob/master/RBMsipynb) Restricted Boltzmann Machines 
 
 Optimization Demos:
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/reml-lab/MLDemos/blob/master/Gradient_Explorer.ipynb) Interactive Gradient Explorer Demo 
@@ -30,3 +31,4 @@ Optimization Demos:
 Tutorials
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/reml-lab/MLDemos/blob/master/Numpy%20Crash%20Course.ipynb) NumPy Crash Course
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/reml-lab/MLDemos/blob/master/PyTorch%20Crash%20Course.ipynb) PyTorch Crash Course
+* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/reml-lab/MLDemos/blob/master/autodiff_demos.ipynb) Reverse Mode Autodiff in Pytorch
