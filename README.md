@@ -9,6 +9,7 @@ Regression Demos:
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/reml-lab/MLDemos/blob/master/Probabilistic_Linear_Regression.ipynb) Probabilistic Linear Regression Demo
 
 Classification Demos:
+* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/reml-lab/MLDemos/blob/master/KNN.ipynb) KNN Classification Demos
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/reml-lab/MLDemos/blob/master/Linear_Classifier.ipynb) Interactive Linear Classifier Demo
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/reml-lab/MLDemos/blob/master/Linear_Classifier_Polynomial_Basis.ipynb) Interactive Linear Classifier with Polynomial Basis Expansion Demo
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/reml-lab/MLDemos/blob/master/SVC.ipynb) Support Vector Classifier Demo
