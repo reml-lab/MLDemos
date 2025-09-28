@@ -31,6 +31,9 @@ Optimization Demos:
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/reml-lab/MLDemos/blob/master/Gradient_Explorer.ipynb) Interactive Gradient Explorer Demo 
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/reml-lab/MLDemos/blob/master/Numerical_Optimization.ipynb) Numerical Optimization Demo
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/reml-lab/MLDemos/blob/master/Subgradient_Descent.ipynb) Subgradient Descent Demos
+* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/reml-lab/MLDemos/blob/master/Symbolic_Differentiation.ipynb) Symbolic Differentiation with SymPy
+* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/reml-lab/MLDemos/blob/master/Numerical_Differentiation.ipynb) Numerical Differentiation with SciPy ApproxFPrime
+* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/reml-lab/MLDemos/blob/master/Automatic_Differentiation.ipynb) Automatic Differentiation with PyTorch
 
 Tutorials
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/reml-lab/MLDemos/blob/master/Numpy%20Crash%20Course.ipynb) NumPy Crash Course
