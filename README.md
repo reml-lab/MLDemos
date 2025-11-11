@@ -7,7 +7,10 @@ Regression Demos:
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/reml-lab/MLDemos/blob/master/Bayesian_Linear_Regression.ipynb) Bayesian Linear Regression Demo with Metropolis-Hastings Sampler
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/reml-lab/MLDemos/blob/master/SVR.ipynb) Support Vector Regressor Demo
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/reml-lab/MLDemos/blob/master/Probabilistic_Linear_Regression.ipynb) Probabilistic Linear Regression Demo
-
+* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/reml-lab/MLDemos/blob/master/Probabilistic_Linear_Regression_Polynomial_Basis.ipynb) Probabilistic Linear Regression with Polynomial Basis Demo
+* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/reml-lab/MLDemos/blob/master/Gaussian_Process_Regression.ipynb) Gaussian Process Regression Demo
+  
+  
 Classification Demos:
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/reml-lab/MLDemos/blob/master/KNN.ipynb) KNN Demo
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/reml-lab/MLDemos/blob/master/KNN_Properties.ipynb) KNN Properties
