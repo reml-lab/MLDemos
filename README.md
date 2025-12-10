@@ -25,6 +25,7 @@ Clustering Demos:
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/reml-lab/MLDemos/blob/master/Bivariate%20Gaussian%20Demo.ipynb) Bivariate Gaussian Demo 
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/reml-lab/MLDemos/blob/master/Mixture%20Models.ipynb) Mixture Models Demo
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/reml-lab/MLDemos/blob/master/Hierarchical_Clustering.ipynb) Hierarchical Clustering Demo
+* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/reml-lab/MLDemos/blob/master/KMeans_Clustering.ipynb) K-Means Clustering Demo
  
 Dimensionality Reduction Demos:
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/reml-lab/MLDemos/blob/master/Factor_Analysis.ipynb) Factor Analysis
